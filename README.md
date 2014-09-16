@@ -10,7 +10,7 @@ Dada uma quantidade de mictórios em um banheiro e a ocupação inicial deles (i
 determine quantos "mijões" ainda podem usar os mictórios e qual a posição deles antes para que não ocorra uma situação 
 constrangedora.
 
-Dojo realizado no dia 16/09/2014 no encontro do Hora Extra Barra
+Dojo iniciado no dia 16/09/2014 no encontro do Hora Extra Barra
 
 Dojo com o objetivo de aprender mais sobre a linguagem Perl.
 
