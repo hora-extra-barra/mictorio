@@ -13,9 +13,11 @@ constrangedora.
 Dojo realizado no dia 16/09/2014 no encontro do Hora Extra Barra
 
 Dojo com o objetivo de aprender mais sobre a linguagem Perl.
+Apoio do Breno G. de Oliveira.
 
 Participantes 
   - Darlene Medeiros
   - Felipe de Morais
   - Hugo Leonardo Costa e Silva
+  - Breno G. de Oliveira
 
