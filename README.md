@@ -21,4 +21,6 @@ Participantes
   - Felipe de Morais
   - Hugo Leonardo Costa e Silva
   - Breno G. de Oliveira
+  - Raffael Tancman
+  - Rafael Oliveira Lopes
 
