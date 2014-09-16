@@ -15,7 +15,7 @@ Dojo realizado no dia 16/09/2014 no encontro do Hora Extra Barra
 Dojo com o objetivo de aprender mais sobre a linguagem Perl.
 
 Participantes 
-  Darlene Medeiros
-  Felipe de Morais
-  Hugo Leonardo Costa e Silva
+  - Darlene Medeiros
+  - Felipe de Morais
+  - Hugo Leonardo Costa e Silva
 
